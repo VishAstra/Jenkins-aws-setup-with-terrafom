@@ -8,7 +8,7 @@ Terraform installed: terraform --version
 AWS credentials configured (either via environment variables or AWS CLI): aws sts get-caller-identity
 Usage
 Clone this repository:
-git clone <repository_url>
+git clone <repository_url>, git clone https://github.com/VishAstra/Jenkins-aws-setup-with-terrafom.git
 
 
 2. Navigate to the project directory:
